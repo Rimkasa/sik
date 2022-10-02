@@ -1,0 +1,15 @@
+C:\Users\marie\OneDrive\Рабочий стол\GB учёба\Example\example002_helloUser\bin\Debug\net6.0\example002_helloUser.exe
+C:\Users\marie\OneDrive\Рабочий стол\GB учёба\Example\example002_helloUser\bin\Debug\net6.0\example002_helloUser.deps.json
+C:\Users\marie\OneDrive\Рабочий стол\GB учёба\Example\example002_helloUser\bin\Debug\net6.0\example002_helloUser.runtimeconfig.json
+C:\Users\marie\OneDrive\Рабочий стол\GB учёба\Example\example002_helloUser\bin\Debug\net6.0\example002_helloUser.dll
+C:\Users\marie\OneDrive\Рабочий стол\GB учёба\Example\example002_helloUser\bin\Debug\net6.0\example002_helloUser.pdb
+C:\Users\marie\OneDrive\Рабочий стол\GB учёба\Example\example002_helloUser\obj\Debug\net6.0\example002_helloUser.csproj.AssemblyReference.cache
+C:\Users\marie\OneDrive\Рабочий стол\GB учёба\Example\example002_helloUser\obj\Debug\net6.0\example002_helloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\OneDrive\Рабочий стол\GB учёба\Example\example002_helloUser\obj\Debug\net6.0\example002_helloUser.AssemblyInfoInputs.cache
+C:\Users\marie\OneDrive\Рабочий стол\GB учёба\Example\example002_helloUser\obj\Debug\net6.0\example002_helloUser.AssemblyInfo.cs
+C:\Users\marie\OneDrive\Рабочий стол\GB учёба\Example\example002_helloUser\obj\Debug\net6.0\example002_helloUser.csproj.CoreCompileInputs.cache
+C:\Users\marie\OneDrive\Рабочий стол\GB учёба\Example\example002_helloUser\obj\Debug\net6.0\example002_helloUser.dll
+C:\Users\marie\OneDrive\Рабочий стол\GB учёба\Example\example002_helloUser\obj\Debug\net6.0\refint\example002_helloUser.dll
+C:\Users\marie\OneDrive\Рабочий стол\GB учёба\Example\example002_helloUser\obj\Debug\net6.0\example002_helloUser.pdb
+C:\Users\marie\OneDrive\Рабочий стол\GB учёба\Example\example002_helloUser\obj\Debug\net6.0\example002_helloUser.genruntimeconfig.cache
+C:\Users\marie\OneDrive\Рабочий стол\GB учёба\Example\example002_helloUser\obj\Debug\net6.0\ref\example002_helloUser.dll
